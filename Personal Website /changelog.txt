@@ -1,0 +1,9 @@
+Version 2.0
+	- Major fixes on mark-up and script
+	- Updated to Bootstrap 3.0.3
+	- Updated to Font Awesome 4.0.3
+	- Added twitter feeds feature
+	- Added working ajax contact form feature
+	
+Version 1.0
+	- Initial release
