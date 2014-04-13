@@ -1269,8 +1269,8 @@ li.dummy.active { /* scrollspy fix */
 	
 	.hero-figure-res { /* figure img replacement */
 		display: block;
-		width: 100px;
-		height: 100px;
+		width: 120px;
+		height: 80px;
 		background: url(img/hero-figure-xs.png) center;
 		-moz-border-radius: 50%;
 		-webkit-border-radius: 50%;
