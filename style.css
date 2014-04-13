@@ -1135,7 +1135,7 @@ li.dummy.active { /* scrollspy fix */
 	.hero-figure-res { /* figure img replacement */
 		display: block;
 		width: 300px;
-		height: 300px;
+		height: 200px;
 		background: url(img/hero-figure-sm.png) center;
 		-moz-border-radius: 50%;
 		-webkit-border-radius: 50%;
@@ -1270,7 +1270,7 @@ li.dummy.active { /* scrollspy fix */
 	.hero-figure-res { /* figure img replacement */
 		display: block;
 		width: 100px;
-		height: 100px;
+		height: 67px;
 		background: url(img/hero-figure-xs.png) center;
 		-moz-border-radius: 50%;
 		-webkit-border-radius: 50%;
